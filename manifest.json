@@ -1,0 +1,18 @@
+{
+  "name": "শিক্ষার্থী বিজ্ঞান মন্থন (VVM) - বাংলা মাধ্যম পোর্টাল",
+  "short_name": "VVM বাংলা",
+  "description": "পশ্চিমবঙ্গ মধ্যশিক্ষা (WBBSE) ও উচ্চ মাধ্যমিক (WBCHSE) পর্ষদের শিক্ষার্থী বিজ্ঞান মন্থন (VVM) প্রস্তুতি পোর্টাল - Created by Siraj Hossain",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#0284c7",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./src/assets/icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
